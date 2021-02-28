@@ -29,15 +29,7 @@ class DisplayActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_display)
-        //
-        //Log.d(TAG, "bfirbfwobfojfbjasbnfjkswbfjkwb erfjkw s ${viewCount.views} times now")
-//        if (savedInstanceState != null) {
-//            Log.d(TAG, "a booga wooga ${viewCount.views} times now")
-//
-//            viewCount.views  = savedInstanceState.getInt(VIEW_NUMBER)
-//        }
-//
-//        viewCount.views = viewCount.views +1
+
         captionMap = mutableMapOf<Int,String>(1 to getString(R.string.meme_message_1),
             2 to getString(R.string.meme_message_2),3 to getString(R.string.meme_message_3),4 to getString(
                 R.string.meme_message_4),

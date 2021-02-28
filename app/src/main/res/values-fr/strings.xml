@@ -10,4 +10,5 @@
     <string name="meme_message_6">L\'écran de votre téléphone est plus lumineux que votre avenir, mais ce n\'est pas mon affaire</string>
     <string name="meme_message_7">Ils sont là avec leur peuple</string>
     <string name="meme_message_8">Quand tes parents se fâchent contre toi pour les caractéristiques que tu as héritées d\'eux</string>
+    <string name="toast_message">Activité d\'affichage vue %d fois</string>
 </resources>

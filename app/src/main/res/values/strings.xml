@@ -9,4 +9,5 @@
     <string name="meme_message_6">Your phone\'s screen is brighter than your future but that\'s none of my business</string>
     <string name="meme_message_7">They\'re there with their people</string>
     <string name="meme_message_8">When your parents get mad at you for characteristics you inherited from them</string>
+    <string name="toast_message">Display Activity viewed %d times"</string>
 </resources>

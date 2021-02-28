@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">开玩笑</string>
+
+    <string name="welcome_message">欢迎</string>
+    <string name="meme_message_1">我再请你</string>
+    <string name="meme_message_2">怎么说啊?</string>
+    <string name="meme_message_3">是你的做好的</string>
+    <string name="meme_message_4">她对你留下很好的印象可是你没有钱</string>
+    <string name="meme_message_5">新密码不能是老的密码</string>
+    <string name="meme_message_6">您手机的屏幕比您的未来要亮，但这与我无关</string>
+    <string name="meme_message_7">他们和他们的人在一起</string>
+    <string name="meme_message_8">当您的父母因您继承的特征而生您的气时</string>
+    <string name="toast_message">显示活动已查看%d个次</string>
+</resources>

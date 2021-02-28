@@ -68,7 +68,7 @@ class MainActivity : AppCompatActivity() {
         if(requestCode== REQUEST_CODE_MEMES){
 
 val msg =
-    Toast.makeText(this,"Display Activity viewed ${viewCount.views} times",Toast.LENGTH_LONG).show()
+    Toast.makeText(this,getString(R.string.toast_message,viewCount.views),Toast.LENGTH_LONG).show()
         }
     }
 
