@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Memez</string>
+    <string name="welcome_message">Bienvenue sur l\'application Memez!</string>
+    <string name="meme_message_1">Je vous le demande encore une fois. Qui a laissé le siège des toilettes en place</string>
+    <string name="meme_message_2">dis quoi maintenant?</string>
+    <string name="meme_message_3">It\'s all your fault</string>
+    <string name="meme_message_4">Tout est de ta faute</string>
+    <string name="meme_message_5">Le nouveau mot de passe ne peut pas être votre ancien mot de passe</string>
+    <string name="meme_message_6">L\'écran de votre téléphone est plus lumineux que votre avenir, mais ce n\'est pas mon affaire</string>
+    <string name="meme_message_7">Ils sont là avec leur peuple</string>
+    <string name="meme_message_8">Quand tes parents se fâchent contre toi pour les caractéristiques que tu as héritées d\'eux</string>
+</resources>
