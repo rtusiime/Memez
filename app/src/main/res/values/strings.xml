@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Memez</string>
+    <string name="welcome_message">Welcome To View One!</string>
+    <string name="meme_message_1">I am once again asking you</string>
+    <string name="meme_message_2">Say what now?</string>
+    <string name="meme_message_3">It\'s all your fault</string>
+    <string name="meme_message_4">When she stays with you despite being a broke loser with no prospects</string>
+    <string name="meme_message_5">New Password cannot be your old password</string>
+    <string name="meme_message_6">Your phone\'s screen is brighter than your future but that\'s none of my business</string>
+    <string name="meme_message_7">They\'re there with their people</string>
+    <string name="meme_message_8">When your parents get mad at you for characteristics you inherited from them</string>
+</resources>
