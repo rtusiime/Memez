@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Memez</string>
-    <string name="welcome_message">Welcome To View One!</string>
+    <string name="welcome_message">Welcome To Memez App!</string>
     <string name="meme_message_1">I am once again asking you</string>
     <string name="meme_message_2">Say what now?</string>
     <string name="meme_message_3">It\'s all your fault</string>
